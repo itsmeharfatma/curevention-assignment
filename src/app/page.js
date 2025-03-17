@@ -96,7 +96,7 @@ export default function Home() {
           {/* Table */}
           <div className="bg-white overflow-hidden">
             <div className='flex items-center justify-start font-medium px-2 pb-2 text-[#666666]'>
-              <div className='py-1.5 pr-6 pl-1 flex gap-3'>Patient's
+              <div className='py-1.5 pr-6 pl-1 flex gap-3'>Patient&apos;s
                 <div className='flex items-center justify-center w-6 h-6 text-sm bg-[#cce6e6] text-[#008080] rounded-full'>8</div>
               </div>
               <div className='py-1.5 px-6 flex gap-3 bg-[#e4e5e9]'>Draft
